@@ -39,10 +39,10 @@ Additionally, this dataset has some import drawbacks. First, the distribution of
 Thus, future work on this question should delve into more personality-level features of the characters, and strive to include only more flesh-out characters. I hope to use NLP in the next project to further investigate these characters.
 
 ## 5. Tools and technologies
-- [Jupyter] (https://jupyter.org/)
-- [PostgreSQL] (https://www.postgresql.org/)
-- [Pandas] (https://pandas.pydata.org/)
-- [Numpy] (https://numpy.org/)
-- [Scikit-learn] (https://scikit-learn.org/stable/)
-- [Tableau] (https://www.tableau.com/)
+- [Jupyter](https://jupyter.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Tableau](https://www.tableau.com/)
 
