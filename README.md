@@ -7,7 +7,7 @@ In this project, I analyzed a Kaggle dataset of Marvel and DC comic book charact
 My goal was to see if a character's alignment - good, bad or neutral - could be predicted using features in the dataset. This was done in two parts: cleaning and modeling. 
 
 ## 2. Cleaning and prepping features
-The first step was to download and clean the data - see corresponding notebook. I downloaded data in CSV format straight from Kaggle and imported into a Jupyter notebook using Pandas. The dataset consisted of two CSV's; one for Marvel and one for DC. I combined these into a single frame and did some basic cleaning to deal with the many NaN's in the dataset. These were specific to columns; for example, NaN's in the "Hair color" column were replaced by "no color". See the Project_3_functions.py file.
+The first step was to download and clean the data - see the Project_3_data_cleaning.ipynb notebook and Project_3_functions.py file. I downloaded data in CSV format straight from Kaggle and imported into a Jupyter notebook using Pandas. The dataset consisted of two CSV's; one for Marvel and one for DC. I combined these into a single frame and did some basic cleaning to deal with the many NaN's in the dataset. These were specific to columns; for example, NaN's in the "Hair color" column were replaced by "no color".
 
 
 
