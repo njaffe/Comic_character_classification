@@ -46,3 +46,4 @@ Thus, future work on this question should delve into more personality-level feat
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Tableau](https://www.tableau.com/)
 
+Special thanks to Brian McGarry and Richard Chiou for assistance with experimental design and implementation, and to Anterra Kennedy for help with pipeline and experimental design.
