@@ -40,11 +40,12 @@ Thus, future work on this question should delve into more personality-level feat
 
 ## 5. Tools and techniques used
 - [Jupyter](https://jupyter.org/)
-- [PostgreSQL](https://www.postgresql.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
-- [Tableau](https://www.tableau.com/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/index.html)
+- [PostgreSQL](https://www.postgresql.org/)
 - Classification with the following algorithms:
 	- [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 	- [K-nearest Neighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
