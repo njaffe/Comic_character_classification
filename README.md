@@ -38,12 +38,20 @@ Additionally, this dataset has some import drawbacks. First, the distribution of
 
 Thus, future work on this question should delve into more personality-level features of the characters, and strive to include only more flesh-out characters. I hope to use NLP in the next project to further investigate these characters.
 
-## 5. Tools and technologies
+## 5. Tools and techniques used
 - [Jupyter](https://jupyter.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Tableau](https://www.tableau.com/)
+- Classification with the following algorithms:
+	- [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+	- [K-nearest Neighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+	- [Guassian Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)
+	- [Support Vector Machine](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+	- [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+	- [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+	- [XGBoost Classifier](https://xgboost.readthedocs.io/en/latest/python/python_intro.html)
 
 Special thanks to Brian McGarry and Richard Chiou for assistance with experimental design and implementation, and to Anterra Kennedy for help with pipeline and experimental design.
